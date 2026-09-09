@@ -1,0 +1,1 @@
+</main><footer><div><span>Barangay San Isidro Information Office</span><span>Open Monday to Friday, 8:00 AM - 5:00 PM</span></div></footer><script src="assets/js/main.js"></script></body></html>
